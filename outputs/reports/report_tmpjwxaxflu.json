@@ -1,0 +1,62 @@
+{
+  "final_score": 0.543124098777771,
+  "verdict": "FAKE",
+  "confidence_label": "LOW",
+  "confidence_pct": 54.3124098777771,
+  "visual_score": 0.7718734979629517,
+  "ecf_score": 0.2,
+  "visual_contribution": 0.463124098777771,
+  "ecf_contribution": 0.08000000000000002,
+  "weights_used": {
+    "visual": 0.6,
+    "ecf": 0.4
+  },
+  "ecf": {
+    "facial_emotion": "neutral",
+    "emotion_distribution": {
+      "neutral": 7,
+      "fear": 6,
+      "sad": 2
+    },
+    "transcription": "",
+    "transcription_language": "unknown",
+    "speech_sentiment": "neutral",
+    "sentiment_scores": {},
+    "ecf_inconsistency_score": 0.2,
+    "verdict": "CONSISTENT"
+  },
+  "frame_predictions": [
+    1,
+    1,
+    1,
+    1,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "frame_fake_probs": [
+    0.8229266405105591,
+    0.7006510496139526,
+    0.7719512581825256,
+    0.8181349039077759,
+    0.3974043130874634,
+    0.5953621864318848,
+    0.8665817975997925,
+    0.8344523310661316,
+    0.8462687134742737,
+    0.8864672780036926,
+    0.7225370407104492,
+    0.9029774069786072,
+    0.5715613961219788,
+    0.9525256752967834,
+    0.8883004784584045
+  ]
+}

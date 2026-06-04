@@ -1,0 +1,60 @@
+{
+  "final_score": 0.17235373828094452,
+  "verdict": "REAL",
+  "confidence_label": "HIGH",
+  "confidence_pct": 82.76462617190555,
+  "visual_score": 0.15392289713490753,
+  "ecf_score": 0.2,
+  "visual_contribution": 0.09235373828094452,
+  "ecf_contribution": 0.08000000000000002,
+  "weights_used": {
+    "visual": 0.6,
+    "ecf": 0.4
+  },
+  "ecf": {
+    "facial_emotion": "neutral",
+    "emotion_distribution": {
+      "neutral": 15
+    },
+    "transcription": "",
+    "transcription_language": "N/A",
+    "speech_sentiment": "neutral",
+    "sentiment_scores": {},
+    "ecf_inconsistency_score": 0.2,
+    "verdict": "CONSISTENT"
+  },
+  "frame_predictions": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ],
+  "frame_fake_probs": [
+    0.0029538723174482584,
+    0.0013494028244167566,
+    0.0006704904371872544,
+    0.0025868804659694433,
+    0.008227462880313396,
+    0.1941441297531128,
+    0.13776451349258423,
+    0.07547228783369064,
+    0.11408369243144989,
+    0.12261974811553955,
+    0.8102301955223083,
+    0.24062013626098633,
+    0.1535349190235138,
+    0.18360595405101776,
+    0.2609797716140747
+  ]
+}
